@@ -1,0 +1,30 @@
+<h1 align="center">
+    Cookenu
+</h1>
+
+# Índice
+
+- [Descrição](#-descrição-do-projeto)
+- [Tecnologias utilizadas](#-tecnologias-utilizadas)
+
+---
+
+##🖋 Descrição do projeto
+
+O projeto Cookenu foi proposto durante o curso de desenvolvimento web full stack da Labenu, tendo como objetivo praticar o conteúdo que estudamos durante o módulo de back end. Cookenu é uma rede social na qual os usuários podem dividir informações relevantes sobre comidas e receitas que tenham experimentado. 
+---
+
+##🚀 Tecnologias utilizadas
+
+o projeto foi desenvolvido usando as seguintes tecnologias:
+
+- [Node.js](https://nodejs.org/pt-br/docs/)
+- [Express.js](http://expressjs.com/pt-br/)
+- [Knex](http://knexjs.org/)
+- Cors
+- mySQL
+- UUID
+- JWT
+- Bcryptjs
+
+---
